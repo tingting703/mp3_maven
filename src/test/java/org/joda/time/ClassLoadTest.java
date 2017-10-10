@@ -49,3 +49,5 @@ public class ClassLoadTest {
     }
     
 }
+
+// A test
